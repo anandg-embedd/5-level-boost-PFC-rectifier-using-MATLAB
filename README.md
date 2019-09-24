@@ -1,0 +1,2 @@
+# 5-level-boost-PFC-rectifier-using-MATLAB
+A reduced switch count 5-level boost PFC rectifier has been presented. A simple controller has been implemented on the proposed converter to generate a constant voltage at the output while generating a five-level voltage waveform at the input without connecting the load to the neutral point of the DC bus capacitors.  Multicarrier PWM technique has been used to produce switching pulses from control signal.
